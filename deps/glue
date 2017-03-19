@@ -1,0 +1,4 @@
+{
+    "header-only/example-dependency"    : { "@" : "master" }
+  , "cpp-pre/type_traits"               : { "@" : "develop" }
+}
