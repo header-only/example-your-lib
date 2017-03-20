@@ -1,0 +1,10 @@
+{
+  "boostorg/preprocessor": {
+    "-I": "include/",
+    "@": "boost-1.62.0"
+  },
+  "nlohmann/json": {
+    "-I": "src/",
+    "@": "v2.1.1"
+  }
+}
